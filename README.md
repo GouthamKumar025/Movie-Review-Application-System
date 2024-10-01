@@ -47,18 +47,20 @@ mvn clean install
 mvn spring-boot:run
 ```
 <h2>Project Creation</h2>
+
 Spring Initializr 🌏 - https://start.spring.io/
 
-Lombok - A prominent Java library for annotations(@) and reduces boilerplate code
+<li>Lombok - A prominent Java library for annotations(@) and reduces boilerplate code<li>
 
-MySQL Driver - A library that allows Java applications to connect and communicate with a MySQL database. In Java, this driver is typically provided by a JAR file called mysql-connector-java, which implements the JDBC (Java Database Connectivity) API to establish connections, execute SQL queries, and retrieve results from the MySQL database.
+<li>MySQL Driver - A library that allows Java applications to connect and communicate with a MySQL database. In Java, this driver is typically provided by a JAR file called mysql-connector-java, which implements the JDBC (Java Database Connectivity) API to establish connections, execute SQL queries, and retrieve results from the MySQL database.</li>
 
-Spring Data JPA - It helps in managing Relational databases and allows to access and persist data between Java Classes and Relational database
+<li>Spring Data JPA - It helps in managing Relational databases and allows to access and persist data between Java Classes and Relational database</li>
 
-Spring Web - Useful library for building RESTful applications and Spring MVC
+<li>Spring Web - Useful library for building RESTful applications and Spring MVC</li>
 
 On creating the package and extracting, the java folder looks like this
-```
+
+```java
 import org.springframework.boot.SpringApplication;  
 import org.springframework.boot.autoconfigure.SpringBootApplication;  
   
