@@ -50,7 +50,7 @@ mvn spring-boot:run
 
 Spring Initializr 🌏 - https://start.spring.io/
 
-<li>Lombok - A prominent Java library for annotations(@) and reduces boilerplate code<li>
+<li>Lombok - A prominent Java library for annotations(@) and reduces boilerplate code</li>
 
 <li>MySQL Driver - A library that allows Java applications to connect and communicate with a MySQL database. In Java, this driver is typically provided by a JAR file called mysql-connector-java, which implements the JDBC (Java Database Connectivity) API to establish connections, execute SQL queries, and retrieve results from the MySQL database.</li>
 
